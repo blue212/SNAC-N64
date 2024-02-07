@@ -11,8 +11,9 @@ It has four ports for controllers which are independently controlled in the OSD.
 Rumble, transfer, controller paks, vru and microphone all supported.
 
 -TODO 
-case
 
 -Updates
+
+Added files for 3D print cases. Designed by [DiniertoDesigns](https://www.thingiverse.com/thing:6413967)
 
 ![ASEMBLED](images/assembled.png)
